@@ -4,7 +4,7 @@ import (
 	"time"
 )
 
-//if not declared, set default value / ex> rt_token = "", time = "0.0.000.000."
+// if not declared, set default value / ex> rt_token = "", time = "0.0.000.000."
 type User struct {
 	Email     string
 	Password  string
